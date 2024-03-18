@@ -27,7 +27,7 @@
 
 ## Технологии
 - вёрстка кодом с Auto Layout
-- UINavogationController
+- UINavigationController
 - UITableViewCell
 - UICollectionViewCell
 - HTTP запросы
